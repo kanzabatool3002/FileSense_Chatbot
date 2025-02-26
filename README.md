@@ -1,4 +1,4 @@
-### FileSense Chatbot
+# FileSense Chatbot
 
 ## Overview
 FileSense Chatbot is an AI-powered document assistant that allows users to upload multiple PDF and DOCX files and interact with them through natural language queries. Using **Retrieval-Augmented Generation (RAG)**, the chatbot retrieves relevant information from uploaded documents and generates coherent responses. It leverages Google's Generative AI, **LangChain**, and FAISS for efficient vector-based search and response generation.
